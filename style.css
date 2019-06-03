@@ -1,0 +1,13 @@
+.logo {
+	padding-top: 20px;
+	margin-left: 100px;
+}
+.phone {
+	height: 100px;
+	margin-left: 160px;
+	padding-top: 150px;
+	display: flex;
+}
+.phone_nambers {
+	margin-left: 600px;
+}
